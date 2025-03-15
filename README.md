@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/JuliusPrerna/JuliusPrerna/blob/main/Github.Banner.png.png)
 
 <h1 align="center">Hi 👋, I'm Prerna Julius</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
