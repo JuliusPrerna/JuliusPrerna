@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Scientist, Data Analytics**
 
-- 💬 Ask me about **Data Scientist, Data Analytics, and Cloud**
+- 💬 Ask me about **Data Scientist,Machine Learning, Data Analytics, and Cloud**
 
 - 📫 How to reach me **prernajulius9999@gmail.com**
 
