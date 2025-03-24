@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prerna Julius</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/0938df25-8d17-4002-b21d-0acf980cc1b2">
 
 
